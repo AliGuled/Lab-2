@@ -127,9 +127,5 @@ print("Departments: \(properUpperCased)")
 
 
 
-func challange1(input: String) -> Bool {
-    
-    return Set(input).count == input.count
-}
 
 
